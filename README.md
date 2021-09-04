@@ -1,2 +1,2 @@
-# Pytoch
+# Pytorch
 THIS IS A PYTORCH PROJECT

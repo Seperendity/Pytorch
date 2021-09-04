@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ea23e9-65fc-44b6-87c5-e688fcbd84f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jNI5hO4392PkM1RykzJPLHtT5v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yolo基础1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="RMB_classify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RMB_classify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.RMB_classify" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.dataset" />
+        <item itemvalue="Python.whn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ea23e9-65fc-44b6-87c5-e688fcbd84f5" name="Default Changelist" comment="" />
+      <created>1603637940454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603637940454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2387" y="3" key="#xdebugger.evaluate" timestamp="1630682805412">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state x="2387" y="3" key="#xdebugger.evaluate/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630682805412" />
+    <state x="2419" y="66" key="FileChooserDialogImpl" timestamp="1630739310887">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state x="2419" y="66" key="FileChooserDialogImpl/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739310887" />
+    <state width="1509" height="39" key="GridCell.Tab.0.bottom" timestamp="1630739312190">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.0.bottom/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312190" />
+    <state width="1509" height="39" key="GridCell.Tab.0.center" timestamp="1630739312190">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.0.center/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312190" />
+    <state width="1509" height="39" key="GridCell.Tab.0.left" timestamp="1630739312190">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.0.left/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312190" />
+    <state width="1509" height="39" key="GridCell.Tab.0.right" timestamp="1630739312190">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.0.right/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312190" />
+    <state width="1509" height="39" key="GridCell.Tab.1.bottom" timestamp="1630739312191">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.1.bottom/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312191" />
+    <state width="1509" height="39" key="GridCell.Tab.1.center" timestamp="1630739312191">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.1.center/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312191" />
+    <state width="1509" height="39" key="GridCell.Tab.1.left" timestamp="1630739312191">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.1.left/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312191" />
+    <state width="1509" height="39" key="GridCell.Tab.1.right" timestamp="1630739312191">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state width="1509" height="39" key="GridCell.Tab.1.right/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630739312191" />
+    <state x="2074" y="-65" key="SettingsEditor" timestamp="1630637642548">
+      <screen x="1920" y="-65" width="1536" height="864" />
+    </state>
+    <state x="2074" y="-65" key="SettingsEditor/1920.-65.1536.864/0.0.1920.1080@1920.-65.1536.864" timestamp="1630637642548" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RMB_classify.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
